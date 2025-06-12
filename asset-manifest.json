@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58baa8f5.css",
+    "main.js": "/static/js/main.12014ba2.js",
+    "static/js/239.dfdb0d71.chunk.js": "/static/js/239.dfdb0d71.chunk.js",
+    "static/js/977.c3d99690.chunk.js": "/static/js/977.c3d99690.chunk.js",
+    "static/js/732.0eb8fd42.chunk.js": "/static/js/732.0eb8fd42.chunk.js",
+    "static/media/W-counter.jpeg": "/static/media/W-counter.11dbe37a0a5176ec272f.jpeg",
+    "static/media/W-TextSpeech.jpeg": "/static/media/W-TextSpeech.4919dfc8ec00dec11bb7.jpeg",
+    "static/media/W-barcode.jpeg": "/static/media/W-barcode.107a873d0a6f61449a09.jpeg",
+    "static/media/W-FileConverter.jpeg": "/static/media/W-FileConverter.f22d53e6aa90ae7d269a.jpeg",
+    "static/media/W-QR.jpeg": "/static/media/W-QR.00085079ce8de386c986.jpeg",
+    "static/media/W-yt.jpeg": "/static/media/W-yt.7ad3e1f60366d03e8a36.jpeg",
+    "static/media/toolisoLogo.jpeg": "/static/media/toolisoLogo.ebd7cda9204514cf0fac.jpeg",
+    "index.html": "/index.html",
+    "main.58baa8f5.css.map": "/static/css/main.58baa8f5.css.map",
+    "main.12014ba2.js.map": "/static/js/main.12014ba2.js.map",
+    "239.dfdb0d71.chunk.js.map": "/static/js/239.dfdb0d71.chunk.js.map",
+    "977.c3d99690.chunk.js.map": "/static/js/977.c3d99690.chunk.js.map",
+    "732.0eb8fd42.chunk.js.map": "/static/js/732.0eb8fd42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58baa8f5.css",
+    "static/js/main.12014ba2.js"
+  ]
+}
